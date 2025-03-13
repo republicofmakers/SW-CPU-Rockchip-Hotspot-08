@@ -1,4 +1,4 @@
-# SW-CPU-Rockchip-Hotspot-08
+# SW-CPU-Rockchip-Hotspot-09
 
 Here is wifi hotspot setup for Radxa CM5 Module with RTL8852BE (Radxa WIFI Module). 
 
